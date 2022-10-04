@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">InvioBootcampOdev3</string>
+    <string name="app_name">Filmoo</string>
+    <string name="movieName">John Wick</string>
+    <string name="MovieDescription">An ex-hitman comes out of retirement to track down the gangsters that killed his dog and took everything from him.</string>
+    <string name="MovieHour">1 Hour 45 min</string>
+    <string name="MovieGenre">Action, Crime</string>
+    <string name="MovieRate">7.4/10</string>
+    <string name="ActorName1">Keanu Reeves</string>
+    <string name="ActorinMovie">John Wick</string>
+    <string name="ActorName2">Adrianne Palicki</string>
+    <string name="ActorinMovie2">Ms. Perkins</string>
+    <string name="Ticket">Book Tickets</string>
+    <string name="cinema">FILMOO</string>
 </resources>

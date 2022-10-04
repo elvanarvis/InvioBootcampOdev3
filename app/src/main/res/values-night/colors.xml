@@ -8,8 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="anaRenk">#2A0F8C</color>
-    <color name="koyuAnaRenk">#051259</color>
+    <color name="anaRenk">#F2075D</color>
+    <color name="koyuAnaRenk">#c7064d</color>
     <color name="mavi">#118CD9</color>
-    <color name="pembe">#F20C8B</color>
+
 </resources>

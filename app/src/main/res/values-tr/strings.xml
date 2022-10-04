@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Filmoo</string>
+    <string name="movieName">John Wick</string>
+    <string name="MovieDescription">Eski bir tetikçi, köpeğini öldüren ve ondan her şeyini alan gangsterlerin izini sürmek için emekliliğinden vazgeçer.</string>
+    <string name="MovieHour">1 Saat 45 dk</string>
+    <string name="MovieGenre">Aksiyon, Suç</string>
+    <string name="MovieRate">7.4/10</string>
+    <string name="ActorName1">Keanu Reeves</string>
+    <string name="ActorinMovie">John Wick</string>
+    <string name="ActorName2">Adrianne Palicki</string>
+    <string name="ActorinMovie2">Bayan Perkins</string>
+    <string name="Ticket">Bilet Al</string>
+    <string name="cinema">FILMOO</string>
+</resources>
